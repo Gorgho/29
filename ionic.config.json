@@ -1,0 +1,7 @@
+{
+  "name": "condominio",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
